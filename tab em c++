@@ -1,0 +1,73 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  int num;
+  int i = 1;
+  int j = 2;
+  int k = 3;
+  int l = 4;
+  int m = 5;
+  int n = 6;
+  int o = 7;
+  int p = 8;
+  int r = 9;
+  int s = 10;
+  
+  cout << "Informe um número: ";
+  cin >> num;
+
+  cout << num << " x " << i << " = " << num * i << endl;
+  cout << num << " x " << j << " = " << num * j << endl;
+  cout << num << " x " << k << " = " << num * k << endl;
+  cout << num << " x " << l << " = " << num * l << endl;
+  cout << num << " x " << m << " = " << num * m << endl;
+  cout << num << " x " << n << " = " << num * n << endl;
+  cout << num << " x " << o << " = " << num * o << endl;
+  cout << num << " x " << p << " = " << num * p << endl;
+  cout << num << " x " << r << " = " << num * r << endl;
+  cout << num << " x " << s << " = " << num * s << endl;
+  
+  cout << "\nInforme um número: ";
+  cin >> num;
+
+  cout << num << " x " << i << " = " << num * i << endl;
+  cout << num << " x " << j << " = " << num * j << endl;
+  cout << num << " x " << k << " = " << num * k << endl;
+  cout << num << " x " << l << " = " << num * l << endl;
+  cout << num << " x " << m << " = " << num * m << endl;
+  cout << num << " x " << n << " = " << num * n << endl;
+  cout << num << " x " << o << " = " << num * o << endl;
+  cout << num << " x " << p << " = " << num * p << endl;
+  cout << num << " x " << r << " = " << num * r << endl;
+  cout << num << " x " << s << " = " << num * s << endl;
+  
+  cout << "\nInforme um número: ";
+  cin >> num;
+
+  cout << num << " x " << i << " = " << num * i << endl;
+  cout << num << " x " << j << " = " << num * j << endl;
+  cout << num << " x " << k << " = " << num * k << endl;
+  cout << num << " x " << l << " = " << num * l << endl;
+  cout << num << " x " << m << " = " << num * m << endl;
+  cout << num << " x " << n << " = " << num * n << endl;
+  cout << num << " x " << o << " = " << num * o << endl;
+  cout << num << " x " << p << " = " << num * p << endl;
+  cout << num << " x " << r << " = " << num * r << endl;
+  cout << num << " x " << s << " = " << num * s << endl;
+  
+  cout << "\nInforme um número: ";
+  cin >> num;
+
+  cout << num << " x " << i << " = " << num * i << endl;
+  cout << num << " x " << j << " = " << num * j << endl;
+  cout << num << " x " << k << " = " << num * k << endl;
+  cout << num << " x " << l << " = " << num * l << endl;
+  cout << num << " x " << m << " = " << num * m << endl;
+  cout << num << " x " << n << " = " << num * n << endl;
+  cout << num << " x " << o << " = " << num * o << endl;
+  cout << num << " x " << p << " = " << num * p << endl;
+  cout << num << " x " << r << " = " << num * r << endl;
+  cout << num << " x " << s << " = " << num * s << endl;
+  
+  }
